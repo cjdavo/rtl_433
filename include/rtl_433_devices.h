@@ -271,6 +271,9 @@
     DECL(geevon) \
     DECL(fineoffset_wh46) \
     DECL(vevor_7in1) \
+    DECL(gridstream96) \
+    DECL(gridstream192) \
+    DECL(gridstream384) \
 
     /* Add new decoders here. */
 
